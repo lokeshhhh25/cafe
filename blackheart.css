@@ -1,0 +1,96 @@
+.head{
+    background-color: black;
+    
+    text-decoration: solid;
+
+}
+.head th{
+    font-style: bold;
+    color: white;
+}
+/* is se effect atta h jis se hum ispe jate h to blink hota h yeh*/
+.head tbody a:hover{
+    color: brown;
+    transition: all;
+    
+
+}
+.head th a{
+    font-style: bold;
+    color: white;
+
+}
+.page{
+    background-image: url("https://i.pinimg.com/originals/0d/8f/22/0d8f228a2ccf48829284688d562de995.png");
+    background-size: 100%;
+   
+    background-repeat: no-repeat;
+    
+}
+.page tr th h2{
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding: 0px 20px;
+    width: fit-content;
+    cursor: pointer;
+    
+   
+}
+.page tr th h2:hover{
+    color: brown;
+    transition: all;
+}
+
+
+.menubackground{
+
+    background-image: url("https://th.bing.com/th/id/R.0959760c34d494ffe9c2fb5cd6cc6ab3?rik=nd%2bfd1W3jhvenQ&riu=http%3a%2f%2fimages.freecreatives.com%2fwp-content%2fuploads%2f2015%2f03%2fu-vintage-wallpaper-brown-light.jpg&ehk=SO40u9t%2bUTtVkaEZ0ucDbXvIHReahjA1ZsTtvQcIJL4%3d&risl=&pid=ImgRaw&r=0");
+}
+.menubackground tr th{
+    
+    font-style: unset;
+    font-weight: 1000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.gallerybackground{
+    background-color: cadetblue;
+}
+.reviewbackground{
+    background-color: cornflowerblue;
+    background-image: url("https://jimssportsbar.com/cms/wp-content/uploads/2018/01/JSC_122934990.jpg" );
+}
+.reviewbackground tr th {
+    font-weight: bolder;
+    color: white;
+    
+    text-shadow: azure;
+}
+.reviewbackground tr th a{
+    color: white;
+
+}
+.contactpage{
+    background-color:;
+    font-size: large;
+    background-color: steelblue;
+    
+    
+    
+    font-weight: bolder;
+    text-align: center;
+}
+.contactpage p{
+    background-color:;
+    font-size: large;
+    background-color: steelblue;
+     font-weight: bolder;
+    text-align: center;
+}
+
+
+.submitbtn{
+    text-align: center;
+    border-image: none;
+    background-color: steelblue;
+}

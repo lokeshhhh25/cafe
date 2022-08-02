@@ -1,0 +1,17 @@
+.contactpage p{
+    background-color:;
+    font-size: large;
+
+     font-weight: bolder;
+    text-align: center;
+}
+
+*{
+    background-color: antiquewhite;
+    text-align: center;
+    text-transform: uppercase;
+}
+.submt:hover{
+  transition: all;
+  color: brown;  
+}
